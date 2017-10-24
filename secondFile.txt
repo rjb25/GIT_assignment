@@ -1,4 +1,4 @@
-UserB: This could be the beggining.
+This is the start of the beggining.
 This is the initial contents
 of the second file that comprises
 our most excellent project.
